@@ -1,0 +1,59 @@
+UPDATE zaqvki:
+
+UPDATE delivers
+SET way_of_delivering = 2
+WHERE DELIVER_NUMBER = 1;
+
+UPDATE menus
+SET meals_definition = "Pecheni tikvichki s chesnov sos"
+WHERE MENU_NUMBER = 21;
+
+SELECT zaqvki:
+
+SELECT * FROM bank_accounts
+WHERE SUM_OF_MONEY > 80.00;
+
+SELECT MAX(profit)
+FROM orders
+WHERE date_of_order > 31-12-2023;
+
+SELECT SUM(profit) as total
+FROM orders;
+
+
+SELECT clients.name, (bank_accounts.SUM_OF_MONEY - orders.PROFIT)
+FROM clients
+INNER JOIN bank_accounts ON bank_accounts.BANK_ACCOUNT_NUMBER = clients.BANK_ACCOUNT_NUMBER 
+INNER JOIN orders ON orders.ORDER_NUMBER = clients.ORDER_NUMBER
+WHERE (bank_accounts.SUM_OF_MONEY - orders.PROFIT) > 100;
+
+SELECT * FROM clients
+ORDER BY NAME;
+
+SELECT * FROM clients
+WHERE ORDER_NUMBER = 101;
+
+SELECT 
+
+select name, TEL_NUMBER
+from clients
+where Name >= 'I%' and Name < 'M%'
+
+#
+ALTER TABLE orders
+ADD BANK_ACCOUNT_NUMBER INT;
+
+INSERT INTO orders(BANK_ACCOUNT_NUMBER)
+VALUES
+(111),
+(222),
+(333),
+(444),
+(555);
+
+UPDATE bank_accounts
+FROM clients
+INNER JOIN bank_accounts ON bank_accounts.BANK_ACCOUNT_NUMBER = clients.BANK_ACCOUNT_NUMBER 
+INNER JOIN orders ON orders.ORDER_NUMBER = clients.ORDER_NUMBER
+SET final = bank_accounts.SUM_OF_MONEY - orders.PROFIT
+WHERE bank_accounts.BANK_ACCOUNT_NUMBER = 111;

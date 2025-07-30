@@ -1,0 +1,112 @@
+USE dostavki;
+INSERT INTO delivers(DELIVER_NUMBER, NAME, ORDER_NUMBER, WAY_OF_DELIVERING,TEL_NUMBER_D)
+VALUES
+(1, "George Fakil", 101, 1, "0897643552"),
+(2, "Emilia Foling", 102, 2, "0899420653"),
+(3, "Hristian Tepiev", 103, 2, "0877654321"),
+(4, "Lili Sapungieva", 104, 1, "0895423141"),
+(5, "Liliput Kamergiev", 105, 1, "0883672152");
+    
+
+
+
+USE dostavki;
+INSERT INTO clients(BANK_ACCOUNT_NUMBER, DELIVER_NUMBER, EGN, NAME, ORDER_NUMBER,TEL_NUMBER)
+VALUES
+("111", 1, "0897654567", "Krasimir Mirchev",101, "08976352415"),
+("222", 2, "0985264222", "Mianmar Liliev", 102,"0862524536"),
+("333", 3, "0288722725", "Monika Pokolieva", 103, "0823451678"),
+("444", 4, "0726252462", "Kaloyan Miliev", 104, "0899156114"),
+("555", 5, "0722242525", "Ivan Ivanov", 105, "0873536251");
+
+USE dostavki;
+INSERT INTO ways_of_delivering(WAY_NUMBER, WITH_CAR)
+VALUES
+(1, True),
+(2, False)
+;
+
+USE dostavki;
+INSERT INTO addresses(ADDRESS_NUMBER, CITY, NEIGHBOURHOOD)
+VALUES
+(1001, "Sofia", "Banishora"),
+(1002, "Pleven", "Porivi"),
+(1003, "Dimitrovgrad", "Lilavite kambni"),
+(1004, "Sofia", "Lulin 10"),
+(1005, "Sofia", "Strelbishte")
+;
+
+USE dostavki;
+INSERT INTO bank_accounts(BANK_ACCOUNT_NUMBER, SUM_OF_MONEY, TYPE_ACCOUNT)
+VALUES
+(111, 12323.90, "savings account"),
+(222, 41451.29, "savings acount"),
+(333, 23.90, "credit"),
+(444, 1444414.20, "retirement account"),
+(555, 425425522.8828, "credit")
+;
+
+USE dostavki;
+INSERT INTO restaurants(DELIVER_NUMBER, LOCATION, RESTAURANT_NAME)
+VALUES
+(1, "Sofia, ul.Krasivi polqni", "Pri baba"),
+(2, "Pleven, ul.Bangladesh", "EAT AND RUN"),
+(3, "Dimitrovgrad, ul.Han", "Salt and pepper"),
+(4, "Sofia, ul.Simeon", "Halite"),
+(5, "Sofia, ul.Liipopi", "Diamond")
+;
+
+USE dostavki;
+INSERT INTO menus(DRINK, meals_definition, MENU_NUMBER,TYPE_MENU)
+VALUES
+("Coca Cola", "Vkusnoprsno izpecheno pile,polto s gyben sos smnogo lubov!",21, 'M'),
+("Fanta", "Tartaleti s domaten sos, poryseni s parmezan otgore, s ordiovyr chushki", 22, 'V'),
+("Coca Cola", "Pileshka supa, domatena salata ipecheni kartofi", 23,'M'),
+("Coca Cola", "Pecheni zelenchuci,polqti sys sladko-kisel sos", 24, 'V'),
+("Fanta", "pet pyrvoli, s shopska salata", 25, 'M')
+;
+
+USE dostavki;
+INSERT INTO orders(ADDRESS_NUMBER, DATE_OF_ORDER, MENU_NUMBER,ORDER_NUMBER, PROFIT)
+VALUES
+(1001, "2024-01-10", 21,101, 24.90),
+(1002, "2023-12-29", 22,102, 33.49),
+(1003, "2023-12-30", 23,103, 37.88),
+(1004, "2024-01-09", 24,104,77.90),
+(1005, "2024-01-17", 25,105, 105.89);
+
+
+INSERT INTO orders(ADDRESS_NUMBER, DATE_OF_ORDER, MENU_NUMBER,ORDER_NUMBER, PROFIT)
+VALUES
+(1006, 2023-01-10, 26 ,106, 24.90),
+
+
+ALTER zaqvki:
+
+USE dostavki;
+ALTER TABLE menus
+ADD meals_definition TEXT
+
+USE dostavki;
+ALTER TABLE clients
+ADD TEL_NUMBER VARCHAR(32);
+
+USE dostavki;
+ALTER TABLE delivers
+ADD TEL_NUMBER_D VARCHAR(32);
+
+USE dostavki;
+ALTER TABLE clients
+ADD ADDRESS_NUMBER INT;
+
+USE dostavki;
+ALTER TABLE orders
+ADD PROFIT DECIMAL;
+
+DELETE zaqvki:
+
+DELETE FROM orders WHERE ADDRESS_NUMBER=1006;
+
+
+
+
