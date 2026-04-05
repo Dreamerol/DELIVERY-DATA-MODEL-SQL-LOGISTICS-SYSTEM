@@ -121,4 +121,6 @@ By exploring this project, you’ll gain experience with:
 
 ## ⭐ Acknowledgements
 
-### *Thanks to everyone exploring SQL database design and joining the delivery system learning journey!*
+<h2 align="center">
+  <i>🎉 Thanks to everyone exploring SQL database design and joining the delivery system learning journey!</i>
+</h2>
