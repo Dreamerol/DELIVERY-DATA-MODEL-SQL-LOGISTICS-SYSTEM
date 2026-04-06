@@ -1,10 +1,8 @@
 # 🚚 DELIVERIES‑SQL
 
----
+
 
 ![SQL Data](https://github.com/Dreamerol/Dreamerol/blob/9b9c59f5b92a0ede47091ece2209379932bd64f9/SQL.jpg)
-
-https://github.com/Dreamerol/Dreamerol/blob/9b9c59f5b92a0ede47091ece2209379932bd64f9/SQL.jpg
 
 ---
 
