@@ -48,8 +48,6 @@ Contains all item details which can be delivered.
 ### 🚛 Deliveries Table  
 Tracks orders or packages being delivered.
 
----
-
 ### 🎯 Relationships
 
 - Each **delivery** belongs to a **user**  
@@ -59,6 +57,17 @@ Relational databases allow you to **connect data across tables** using foreign k
 
 ---
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-Relational-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-Design-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Normalization-3NF-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Joins-Queries-important?style=for-the-badge" />
+
+</div>
+
+---
 
 
 ## 💻 Tech Stack
