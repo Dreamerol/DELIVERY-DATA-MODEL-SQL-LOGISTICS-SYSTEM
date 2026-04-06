@@ -6,6 +6,19 @@
 
 ---
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-Relational-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-Design-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Normalization-3NF-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Joins-Queries-important?style=for-the-badge" />
+
+</div>
+
+---
+
+
 ## ✨ Overview
 
 A structured **SQL project** that models a basic **delivery system database**, including **users, items, addresses**, and their relationships. This repository contains the **database schema**, **sample inserts**, and **example queries** to explore delivery data efficiently.The project demonstrates how to design and work with **relational databases using SQL**.  
