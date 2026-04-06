@@ -2,7 +2,9 @@
 
 ---
 
-![SQL Data](https://raw.githubusercontent.com/Dreamerol/Dreamerol/9cc733b4ef8b54f63e8571152bbade25bd51ef12/SQL%20DATA.jpg)
+![SQL Data](https://github.com/Dreamerol/Dreamerol/blob/9b9c59f5b92a0ede47091ece2209379932bd64f9/SQL.jpg)
+
+https://github.com/Dreamerol/Dreamerol/blob/9b9c59f5b92a0ede47091ece2209379932bd64f9/SQL.jpg
 
 ---
 
