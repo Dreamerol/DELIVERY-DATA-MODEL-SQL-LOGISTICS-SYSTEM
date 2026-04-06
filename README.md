@@ -255,19 +255,7 @@ By exploring this project, you’ll gain experience with:
 
 </div>
 
----
 
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT-Portfolio_Ready-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-SQL_Logistics_System-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DATA-Relational_Model-ff69b4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DESIGN-Normalized_DB-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LEVEL-Junior_Developer-informational?style=for-the-badge" />
-
-</div>
 
 ---
 
