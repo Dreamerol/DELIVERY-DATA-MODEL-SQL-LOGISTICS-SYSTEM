@@ -243,6 +243,22 @@ By exploring this project, you’ll gain experience with:
 
 ---
 
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-Relational-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-Design-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Normalization-3NF-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Joins-Queries-important?style=for-the-badge" />
+
+</div>
+
+---
+
+
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/PROJECT-Portfolio_Ready-0A66C2?style=for-the-badge" />
@@ -261,3 +277,17 @@ By exploring this project, you’ll gain experience with:
 <h2 align="center">
   <i>🎉🎉🎉 Thanks to everyone exploring SQL database design and joining the delivery system learning journey!</i>
 </h2>
+
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-Portfolio_Ready-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-SQL_Logistics_System-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DATA-Relational_Model-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DESIGN-Normalized_DB-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LEVEL-Junior_Developer-informational?style=for-the-badge" />
+
+</div>
+
