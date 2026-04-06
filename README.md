@@ -141,6 +141,21 @@ Counting, grouping, and summarizing data (e.g., number of deliveries per user).
 
 These concepts reflect standard practices in database design and querying.
 
+
+---
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-Relational-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-Design-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Normalization-3NF-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Joins-Queries-important?style=for-the-badge" />
+
+</div>
+
+
 ---
 
 ## 📂 Included Files
