@@ -278,7 +278,7 @@ By exploring this project, you’ll gain experience with:
 </h2>
 
 
----
+
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 
