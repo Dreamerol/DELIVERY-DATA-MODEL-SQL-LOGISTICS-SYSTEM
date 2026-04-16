@@ -48,17 +48,17 @@ It includes:
 
 <div align="center">
 
-<!-- CORE -->
+
 <img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<!-- FUNDAMENTALS -->
+
 <img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Normalization-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Joins_&_Queries-3B82F6?style=for-the-badge" />
 
-<!-- ADVANCED -->
+
 <img src="https://img.shields.io/badge/Indexing-EF4444?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Query_Optimization-F97316?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
@@ -66,7 +66,7 @@ It includes:
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
 
-<!-- EXTRA PRO -->
+
 <img src="https://img.shields.io/badge/Schema_Design-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Relational_Model-60A5FA?style=for-the-badge" />
 
