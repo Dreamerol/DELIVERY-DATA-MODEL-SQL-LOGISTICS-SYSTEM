@@ -345,7 +345,7 @@ By exploring this project, you’ll gain experience with:
   <i>🎉 Thanks to everyone exploring SQL database design and joining the delivery system learning journey!</i>
 </h2>
 
-
+<br>
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 
