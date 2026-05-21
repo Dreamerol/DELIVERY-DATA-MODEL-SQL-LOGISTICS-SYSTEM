@@ -334,12 +334,16 @@ By exploring this project, you’ll gain experience with:
 ---
 
 
+<div align="center">
+
 ## ⭐ Acknowledgements
+
+</div>
+
 
 <h2 align="center">
   <i>🎉 Thanks to everyone exploring SQL database design and joining the delivery system learning journey!</i>
 </h2>
-
 
 
 
