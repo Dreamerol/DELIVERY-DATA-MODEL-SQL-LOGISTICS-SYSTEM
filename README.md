@@ -24,8 +24,6 @@
 <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
-
 
 
 
@@ -64,7 +62,8 @@ It includes:
 <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
+
+
 
 </div>
 
@@ -106,7 +105,7 @@ Relational databases allow you to **connect data across tables** using foreign k
 <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
+
 
 </div>
 
@@ -145,7 +144,7 @@ Relational databases allow you to **connect data across tables** using foreign k
 <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
+
 
 </div>
 
@@ -188,7 +187,7 @@ These example queries demonstrate how to use SQL to retrieve meaningful insights
 <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
+
 
 </div>
 
@@ -229,7 +228,7 @@ These concepts reflect standard practices in database design and querying.
 <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
+
 
 </div>
 
@@ -262,10 +261,9 @@ These concepts reflect standard practices in database design and querying.
 <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
+
 
 </div>
-
 
 ---
 
@@ -291,7 +289,7 @@ These concepts reflect standard practices in database design and querying.
 <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
+
 
 </div>
 
@@ -323,7 +321,7 @@ By exploring this project, you’ll gain experience with:
 <img src="https://img.shields.io/badge/Transactions-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
+
 
 </div>
 
