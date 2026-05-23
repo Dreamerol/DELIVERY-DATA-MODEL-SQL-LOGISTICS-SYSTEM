@@ -53,7 +53,7 @@ It includes:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
@@ -66,8 +66,8 @@ It includes:
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
 
-
 </div>
+
 
 ---
 
@@ -95,7 +95,7 @@ Relational databases allow you to **connect data across tables** using foreign k
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
@@ -108,8 +108,8 @@ Relational databases allow you to **connect data across tables** using foreign k
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
 
-
 </div>
+
 
 ---
 
@@ -134,7 +134,7 @@ Relational databases allow you to **connect data across tables** using foreign k
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
@@ -146,7 +146,6 @@ Relational databases allow you to **connect data across tables** using foreign k
 <img src="https://img.shields.io/badge/ACID_Properties-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Stored_Procedures-0EA5E9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
-
 
 </div>
 
@@ -178,7 +177,7 @@ These example queries demonstrate how to use SQL to retrieve meaningful insights
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
@@ -192,7 +191,6 @@ These example queries demonstrate how to use SQL to retrieve meaningful insights
 <img src="https://img.shields.io/badge/Database_Performance-22C55E?style=for-the-badge" />
 
 </div>
-
 
 ---
 
@@ -220,7 +218,7 @@ These concepts reflect standard practices in database design and querying.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
@@ -253,7 +251,7 @@ These concepts reflect standard practices in database design and querying.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
@@ -282,7 +280,7 @@ These concepts reflect standard practices in database design and querying.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
@@ -312,10 +310,9 @@ By exploring this project, you’ll gain experience with:
 ---
 
 
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
