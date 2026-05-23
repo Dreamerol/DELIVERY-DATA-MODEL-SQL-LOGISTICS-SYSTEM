@@ -13,7 +13,7 @@
  
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Normalization-A78BFA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Database_Design-22C55E?style=for-the-badge" />
